@@ -1,2 +1,2 @@
 # Small_JS_PROJECT
-these are the basic js project added for revision
+so this is an SIMON'S GAME...made this with added functionality like dark mode and light mode,and little changed UI
